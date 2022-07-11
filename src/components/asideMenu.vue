@@ -1,5 +1,4 @@
- 
- <template>
+<template>
     <div class="aside-menu">
     <div class="wraps">
       <label>
@@ -86,5 +85,9 @@
       </li>
     </ul>
   </div>
- </template>
- 
+</template>
+<script>
+export default {
+  name: 'asideMenu'
+}
+</script>
